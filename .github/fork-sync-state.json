@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-10-29T17:21:51.108661+00:00",
+  "checked_at": "2026-10-31T02:10:30.697805+00:00",
   "upstream": "SunWeb3Sec/DeFiHackLabs-Incident-Explorer",
   "upstream_branch": "main",
-  "upstream_commit": "4295ea3714b5884de7b9342f9317f59093d5fbdf",
+  "upstream_commit": "82111c2b377dba6bde94c0c83e7a8d613903fddc",
   "version": 1,
   "workflow_policy": "preserve fork workflows; never import upstream workflows"
 }
